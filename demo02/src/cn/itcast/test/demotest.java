@@ -10,4 +10,7 @@ public class demotest {
         System.out.println("hello");
         System.out.println("hello");
     }
+    public void test(){
+        int a =10 ;
+    }
 }
